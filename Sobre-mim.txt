@@ -3,3 +3,5 @@ Nome: Irisbarney
 Idade: 17
 Cidade: Pavuna
 Curso: Informática
+Hobby: Fazer projetos pessoais
+Comida favorita: Torta de limão ou pizza
